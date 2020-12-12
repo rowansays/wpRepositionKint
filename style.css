@@ -1,0 +1,13 @@
+body.wp-admin .kint-rich {
+  margin: 10px;
+}
+@media (min-width: 785px) {
+  body.wp-admin .kint-rich {
+    margin-left: 45px;
+  }
+}
+@media (min-width: 960px) {
+  body.wp-admin .kint-rich {
+    margin-left: 170px;
+  }
+}
