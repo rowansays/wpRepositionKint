@@ -3,7 +3,7 @@
 /*
 Plugin Name: RowanSays: Reposition Kint
 Description: Allows for better display of kint debug box in wp-admin/.
-Version: 1.1.0
+Version: 1.1.1
 Requires PHP: 7.4
 Author: Rowan Weathers
 Author URI: https://rowansays.com/
